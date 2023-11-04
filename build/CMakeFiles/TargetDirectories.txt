@@ -1,0 +1,4 @@
+E:/WorkSpace/QT-WorkSpace/build/CMakeFiles/TuringMachine.dir
+E:/WorkSpace/QT-WorkSpace/build/CMakeFiles/edit_cache.dir
+E:/WorkSpace/QT-WorkSpace/build/CMakeFiles/rebuild_cache.dir
+E:/WorkSpace/QT-WorkSpace/build/CMakeFiles/TuringMachine_autogen.dir
