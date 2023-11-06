@@ -109,10 +109,11 @@ void TuringMachine::loadRuler()
 void TuringMachine::inputPaper()
 {
     state = '1';
-    paperPtr = 0;
+    paperPtr = 1;
     QMessageBox::information(this, "Success!", "Paper Loading Success!");
     QString input = ui->lineEdit->text();
-    paper = input.toStdString();
+    paper = 'B';
+    paper += input.toStdString();
     ui->listView->setViewMode(QListView::ListMode);
     ui->listView->setModel(listModel);
     printPaper();
